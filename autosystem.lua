@@ -1,7 +1,3 @@
--- autosystem.lua
--- Safe system for your OWN game (not an exploit!)
--- GUI + Toggles for Auto Punch, Auto Rep, Auto Rebirth, Auto Kill
-
 --// Services
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
